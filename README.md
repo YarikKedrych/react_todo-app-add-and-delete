@@ -1,6 +1,6 @@
 # React Todo App Add and Delete
 
-> Check the [DEMO LINK]()
+> Check the [DEMO LINK](https://YarikKedrych.github.io/react_todo-app-add-and-delete/)
 
 ## Adding a todo
 
